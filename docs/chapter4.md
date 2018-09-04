@@ -16,7 +16,7 @@ Moreover, their ability to do these things is going to increase rapidly until-in
 
 Although GPS never lived up to these exaggerated claims, it was still an important program for historical reasons.
 It was the first program to separate its problem solving strategy from its knowledge of particular problems, and it spurred much further research in problem solving.
-For ail these reasons, it is a fitting object of study.
+For all these reasons, it is a fitting object of study.
 
 The original GPS program had a number of minor features that made it quite complex.
 In addition, it was written in an obsolete low-level language, IPL, that added gratuitous complexity.
@@ -28,8 +28,8 @@ The result will be a version of GPS that is quite simple, yet illustrates some i
 On one level, this chapter is about GPS.
 But on another level, it is about the process of developing an AI computer program.
 We distinguish five stages in the development of a program.
-First is the problem description, which is a rough idea-usually written in English prose-of what we want to do.
-Second is the program speification, where we redescribe the problem in terms that are closer to a computable procedure.
+First is the problem description, which is a rough idea--usually written in English prose--of what we want to do.
+Second is the program specification, where we redescribe the problem in terms that are closer to a computable procedure.
 The third stage is the implementation of the program in a programming language such as Common Lisp, the fourth is testing, and the fifth is debugging and analysis.
 The boundaries between these stages are fluid, and the stages need not be completed in the order stated.
 Problems at any stage can lead to a change in the previous stage, or even to complete redesign or abandonment of the project.
